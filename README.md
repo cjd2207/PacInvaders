@@ -12,3 +12,5 @@ Prerequisites
 Installing
 1. Open a cmd window and navigate to the directory with main.py at location
 2. Enter python.exe main.py and game should run
+
+![](https://github.com/cjd2207/PacInvaders/blob/master/PacInvaders.PNG)
